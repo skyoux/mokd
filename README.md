@@ -93,10 +93,12 @@ This project is under the Apache License 2.0 license. See [LICENSE](LICENSE) for
 
 ## Citation
 ```bibtex
-@inproceedings{song2023multimode,
-  author    = {Song, Kaiyou and Xie, Jin and Zhang, Shan and Luo, Zimeng},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  title     = {Multi-Mode Online Knowledge Distillation for Self-Supervised Visual Representation Learning},
-  year      = {2023},
+@InProceedings{Song_2023_CVPR,
+    author    = {Song, Kaiyou and Xie, Jin and Zhang, Shan and Luo, Zimeng},
+    title     = {Multi-Mode Online Knowledge Distillation for Self-Supervised Visual Representation Learning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {11848-11857}
 }
 ```
